@@ -1,0 +1,44 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    height: 5000px;
+}
+
+#background_img {
+    display: flex;
+    background-color: grey;
+    padding-left: 1em;
+}
+
+#title-tag {
+    padding-left: 5em;
+    padding-top: 2em;
+    font-size: 48px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#paragraph-tag {
+    padding-top: 15px;
+    padding-left: 4em;
+    font-family: 'Italianno', cursive;
+    font-size: 48px;
+}
+
+#tag-title {
+    text-align: center;
+    font-size: 22px;
+    color: white;
+}
+
+#threeimages {
+    padding-right: 120px;
+    padding-left: 1em;
+    padding-top: 12px;
+}
+
+img {
+    padding-left: 2em;
+    border-radius: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
