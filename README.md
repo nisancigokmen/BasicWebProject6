@@ -1,5 +1,6 @@
 # BasicWebProject6
-<img src="https://media1.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif?cid=ecf05e47dl70mfjyq0lv8eisnwlnf8bxx28uyxxlqt2mrvlp&rid=giphy.gif&ct=g">
+![interface](https://user-images.githubusercontent.com/91744618/137242339-f2e0ebe6-57ed-46e6-9591-6b80fb27f24f.png)
+
 
 <h2>Please let us know your questions and comments... </h2>
 <hr>
