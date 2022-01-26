@@ -31,8 +31,6 @@
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
 <img src="https://media3.giphy.com/media/ZDEW9Zrex2JmSL14x2/giphy.gif?cid=ecf05e47l3xbpz949n40buj02jn2bzfvaj64shxrf7dfcfcf&rid=giphy.gif&ct=g" width="210px">
-  
-  
-  
-  
+  <br> <br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
