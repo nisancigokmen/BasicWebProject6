@@ -2,7 +2,6 @@
 
 ![interface](https://user-images.githubusercontent.com/91744618/137242339-f2e0ebe6-57ed-46e6-9591-6b80fb27f24f.png)
 
-
 <div id="contact">
  
 <h2> Connect with me: </h2>
@@ -12,7 +11,6 @@
  
  </div>
 
- 
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
  
@@ -25,8 +23,6 @@
  </div>
  
 <br>
-
-  
 
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
